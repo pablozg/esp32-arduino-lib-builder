@@ -1,4 +1,4 @@
-name: ESP32 builder IDF 4.4.2 development
+name: ESP32 builder IDF 4.4.2 test
 
 on:
   workflow_dispatch:  # Manually start a workflow
