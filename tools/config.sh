@@ -6,7 +6,7 @@ if [ -z $IDF_PATH ]; then
 fi
 
 if [ -z $IDF_BRANCH ]; then
-	IDF_BRANCH="442_esp41"
+	IDF_BRANCH="Tasmota/v4.4.3"
 fi
 
 if [ -z $AR_PR_TARGET_BRANCH ]; then
