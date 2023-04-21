@@ -20,6 +20,8 @@ rm -rf arduino-esp32/libraries/RainMaker
 rm -rf arduino-esp32/libraries/Insights
 rm -rf arduino-esp32/package
 rm -rf arduino-esp32/tools/sdk
+rm -rf arduino-esp32/tools/get.py
+rm -rf arduino-esp32/tools/get.exe
 rm -rf arduino-esp32/tools/esptool.py
 rm -rf arduino-esp32/tools/ide-debug
 rm -rf arduino-esp32/tools/gen_esp32part.py
