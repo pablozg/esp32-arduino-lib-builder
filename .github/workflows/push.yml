@@ -1,4 +1,4 @@
-name: Arduino IDF 4.4.4
+name: Arduino IDF 4.4.5
 
 on:
   workflow_dispatch:  # Manually start a workflow
