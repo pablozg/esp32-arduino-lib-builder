@@ -1,0 +1,1 @@
+Framework built from Tasmota IDF branch release/v4.4 commit 8b94183c9c and espressif/arduino-esp32 branch release/v2.x commit ac814eed
